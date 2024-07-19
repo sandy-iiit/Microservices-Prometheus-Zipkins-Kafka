@@ -1,0 +1,2611 @@
+{
+  "state": "Done",
+  "series": [
+    {
+      "refId": "A",
+      "fields": [
+        {
+          "name": "labels",
+          "type": "other",
+          "typeInfo": {
+            "frame": "json.RawMessage"
+          },
+          "config": {},
+          "values": [
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "WARN"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "WARN"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "WARN"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "WARN"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            },
+            {
+              "application": "product-service",
+              "host": "Dattas-MacBook-Air.local",
+              "level": "INFO"
+            }
+          ],
+          "entities": {},
+          "state": null
+        },
+        {
+          "name": "Time",
+          "type": "time",
+          "typeInfo": {
+            "frame": "time.Time"
+          },
+          "config": {},
+          "values": [
+            1721406636548,
+            1721406636541,
+            1721402211722,
+            1721402211720,
+            1721403589247,
+            1721403589245,
+            1721403589245,
+            1721403589026,
+            1721403589012,
+            1721403588963,
+            1721403588191,
+            1721403588184,
+            1721403587826,
+            1721403587825,
+            1721403587789,
+            1721403587789,
+            1721403587780,
+            1721403587338,
+            1721403587312,
+            1721403586541,
+            1721403586538,
+            1721403203141,
+            1721403203136,
+            1721403203135,
+            1721403202780,
+            1721403202764,
+            1721403202714,
+            1721403201900,
+            1721403201891,
+            1721403201527,
+            1721403201527,
+            1721403201494,
+            1721403201494,
+            1721403201486,
+            1721403201019,
+            1721403200948,
+            1721403200106,
+            1721403200102,
+            1721402502460,
+            1721402502458,
+            1721402502458,
+            1721402502133,
+            1721402502117,
+            1721402502063,
+            1721402501274,
+            1721402501267,
+            1721402500922,
+            1721402500922,
+            1721402500890,
+            1721402500890,
+            1721402500882,
+            1721402500401,
+            1721402500375,
+            1721402499609,
+            1721402499605,
+            1721402195488,
+            1721402195486,
+            1721402195486,
+            1721402195008,
+            1721402194991,
+            1721402194925,
+            1721402193178,
+            1721402193129,
+            1721402192365,
+            1721402192365,
+            1721402192320,
+            1721402192319,
+            1721402192308,
+            1721402191412,
+            1721402191370,
+            1721402189891,
+            1721402189885
+          ],
+          "entities": {},
+          "nanos": [
+            548000,
+            541000,
+            722000,
+            720000,
+            247000,
+            245001,
+            245000,
+            26000,
+            12000,
+            963000,
+            191000,
+            184000,
+            826000,
+            825000,
+            789001,
+            789000,
+            780000,
+            338000,
+            312000,
+            541000,
+            538000,
+            141000,
+            136000,
+            135000,
+            780000,
+            764000,
+            714000,
+            900000,
+            891000,
+            527001,
+            527000,
+            494001,
+            494000,
+            486000,
+            19000,
+            948000,
+            106000,
+            102000,
+            460000,
+            458001,
+            458000,
+            133000,
+            117000,
+            63000,
+            274000,
+            267000,
+            922001,
+            922000,
+            890001,
+            890000,
+            882000,
+            401000,
+            375000,
+            609000,
+            605000,
+            488000,
+            486001,
+            486000,
+            8000,
+            991000,
+            925000,
+            178000,
+            129000,
+            365001,
+            365000,
+            320000,
+            319000,
+            308000,
+            412000,
+            370000,
+            891000,
+            885000
+          ],
+          "state": null
+        },
+        {
+          "name": "Line",
+          "type": "string",
+          "typeInfo": {
+            "frame": "string"
+          },
+          "config": {},
+          "values": [
+            "2024-07-19T22:00:36.548+05:30  WARN 33105 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused)\n\norg.springframework.web.client.ResourceAccessException: I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused\n\tat org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:915)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:895)\n\tat org.springframework.web.client.RestTemplate.execute(RestTemplate.java:830)\n\tat org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:691)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.ZipkinRestTemplateSender.postSpans(ZipkinRestTemplateSender.java:49)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:68)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:40)\n\tat zipkin2.reporter.BaseHttpSender.send(BaseHttpSender.java:123)\n\tat zipkin2.reporter.internal.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:266)\n\tat zipkin2.reporter.internal.AsyncReporter$Flusher.run(AsyncReporter.java:352)\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\nCaused by: java.net.ConnectException: Connection refused\n\tat java.base/sun.nio.ch.Net.pollConnect(Native Method)\n\tat java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)\n\tat java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)\n\tat java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)\n\tat java.base/java.net.Socket.connect(Socket.java:752)\n\tat java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)\n\tat java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:280)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1310)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1243)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1129)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1058)\n\tat org.springframework.http.client.SimpleClientHttpRequest.executeInternal(SimpleClientHttpRequest.java:79)\n\tat org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)\n\tat org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)\n\t... 9 common frames omitted\n\n",
+            "2024-07-19T22:00:36.541+05:30  WARN 33105 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.\n",
+            "2024-07-19T20:46:51.722+05:30  WARN 30921 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused)\n\norg.springframework.web.client.ResourceAccessException: I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused\n\tat org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:915)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:895)\n\tat org.springframework.web.client.RestTemplate.execute(RestTemplate.java:830)\n\tat org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:691)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.ZipkinRestTemplateSender.postSpans(ZipkinRestTemplateSender.java:49)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:68)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:40)\n\tat zipkin2.reporter.BaseHttpSender.send(BaseHttpSender.java:123)\n\tat zipkin2.reporter.internal.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:266)\n\tat zipkin2.reporter.internal.AsyncReporter$Flusher.run(AsyncReporter.java:352)\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\nCaused by: java.net.ConnectException: Connection refused\n\tat java.base/sun.nio.ch.Net.pollConnect(Native Method)\n\tat java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)\n\tat java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)\n\tat java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)\n\tat java.base/java.net.Socket.connect(Socket.java:752)\n\tat java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)\n\tat java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:280)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1310)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1243)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1129)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1058)\n\tat org.springframework.http.client.SimpleClientHttpRequest.executeInternal(SimpleClientHttpRequest.java:79)\n\tat org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)\n\tat org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)\n\t... 9 common frames omitted\n\n",
+            "2024-07-19T20:46:51.720+05:30  WARN 30921 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.\n",
+            "2024-07-19T21:09:49.247+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms\n",
+            "2024-07-19T21:09:49.245+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+            "2024-07-19T21:09:49.245+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+            "2024-07-19T21:09:49.026+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.032 seconds (process running for 3.625)\n",
+            "2024-07-19T21:09:49.012+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+            "2024-07-19T21:09:48.963+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+            "2024-07-19T21:09:48.191+05:30  INFO 33105 --- [product-service] [cluster-ClusterId{value='669a88c44477986385de74fd', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11279375}\n",
+            "2024-07-19T21:09:48.184+05:30  INFO 33105 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@4b56b517], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@1124dd79, com.mongodb.Jep395RecordCodecProvider@335cdd2, com.mongodb.KotlinCodecProvider@1ea96ff2]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@60a99f3d], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+            "2024-07-19T21:09:47.826+05:30  INFO 33105 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1134 ms\n",
+            "2024-07-19T21:09:47.825+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+            "2024-07-19T21:09:47.789+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+            "2024-07-19T21:09:47.789+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+            "2024-07-19T21:09:47.780+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+            "2024-07-19T21:09:47.338+05:30  INFO 33105 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 MongoDB repository interface.\n",
+            "2024-07-19T21:09:47.312+05:30  INFO 33105 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+            "2024-07-19T21:09:46.541+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+            "2024-07-19T21:09:46.538+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 33105 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+            "2024-07-19T21:03:23.141+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms\n",
+            "2024-07-19T21:03:23.136+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+            "2024-07-19T21:03:23.135+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+            "2024-07-19T21:03:22.780+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.329 seconds (process running for 4.023)\n",
+            "2024-07-19T21:03:22.764+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+            "2024-07-19T21:03:22.714+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+            "2024-07-19T21:03:21.900+05:30  INFO 32484 --- [product-service] [cluster-ClusterId{value='669a874105257c3f9843f581', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=13079292}\n",
+            "2024-07-19T21:03:21.891+05:30  INFO 32484 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@432f4626], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@297c3a43, com.mongodb.Jep395RecordCodecProvider@4c79ca55, com.mongodb.KotlinCodecProvider@3a63d248]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@3c4ad54], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+            "2024-07-19T21:03:21.527+05:30  INFO 32484 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1255 ms\n",
+            "2024-07-19T21:03:21.527+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+            "2024-07-19T21:03:21.494+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+            "2024-07-19T21:03:21.494+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+            "2024-07-19T21:03:21.486+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+            "2024-07-19T21:03:21.019+05:30  INFO 32484 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 66 ms. Found 1 MongoDB repository interface.\n",
+            "2024-07-19T21:03:20.948+05:30  INFO 32484 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+            "2024-07-19T21:03:20.106+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+            "2024-07-19T21:03:20.102+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 32484 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+            "2024-07-19T20:51:42.460+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms\n",
+            "2024-07-19T20:51:42.458+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+            "2024-07-19T20:51:42.458+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+            "2024-07-19T20:51:42.133+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.215 seconds (process running for 4.064)\n",
+            "2024-07-19T20:51:42.117+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+            "2024-07-19T20:51:42.063+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+            "2024-07-19T20:51:41.274+05:30  INFO 31408 --- [product-service] [cluster-ClusterId{value='669a8485f758d4551979234b', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11269583}\n",
+            "2024-07-19T20:51:41.267+05:30  INFO 31408 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@77d959f1], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@11c999da, com.mongodb.Jep395RecordCodecProvider@54f69311, com.mongodb.KotlinCodecProvider@4ab86b2a]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@7793b55d], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+            "2024-07-19T20:51:40.922+05:30  INFO 31408 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1170 ms\n",
+            "2024-07-19T20:51:40.922+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+            "2024-07-19T20:51:40.890+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+            "2024-07-19T20:51:40.890+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+            "2024-07-19T20:51:40.882+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+            "2024-07-19T20:51:40.401+05:30  INFO 31408 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 MongoDB repository interface.\n",
+            "2024-07-19T20:51:40.375+05:30  INFO 31408 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+            "2024-07-19T20:51:39.609+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+            "2024-07-19T20:51:39.605+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 31408 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+            "2024-07-19T20:46:35.488+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms\n",
+            "2024-07-19T20:46:35.486+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+            "2024-07-19T20:46:35.486+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+            "2024-07-19T20:46:35.008+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 5.846 seconds (process running for 7.222)\n",
+            "2024-07-19T20:46:34.991+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+            "2024-07-19T20:46:34.925+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+            "2024-07-19T20:46:33.178+05:30  INFO 30921 --- [product-service] [cluster-ClusterId{value='669a8351cce4063514f3b66c', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=57932250}\n",
+            "2024-07-19T20:46:33.129+05:30  INFO 30921 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@60a99f3d], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@57515944, com.mongodb.Jep395RecordCodecProvider@7a274521, com.mongodb.KotlinCodecProvider@2fa47368]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@35841d6], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+            "2024-07-19T20:46:32.365+05:30  INFO 30921 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2181 ms\n",
+            "2024-07-19T20:46:32.365+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+            "2024-07-19T20:46:32.320+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+            "2024-07-19T20:46:32.319+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+            "2024-07-19T20:46:32.308+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+            "2024-07-19T20:46:31.412+05:30  INFO 30921 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 1 MongoDB repository interface.\n",
+            "2024-07-19T20:46:31.370+05:30  INFO 30921 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+            "2024-07-19T20:46:29.891+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+            "2024-07-19T20:46:29.885+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 30921 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n"
+          ],
+          "entities": {},
+          "state": null
+        },
+        {
+          "name": "tsNs",
+          "type": "string",
+          "typeInfo": {
+            "frame": "string"
+          },
+          "config": {},
+          "values": [
+            "1721406636548548000",
+            "1721406636541541000",
+            "1721402211722722000",
+            "1721402211720720000",
+            "1721403589247247000",
+            "1721403589245245001",
+            "1721403589245245000",
+            "1721403589026026000",
+            "1721403589012012000",
+            "1721403588963963000",
+            "1721403588191191000",
+            "1721403588184184000",
+            "1721403587826826000",
+            "1721403587825825000",
+            "1721403587789789001",
+            "1721403587789789000",
+            "1721403587780780000",
+            "1721403587338338000",
+            "1721403587312312000",
+            "1721403586541541000",
+            "1721403586538538000",
+            "1721403203141141000",
+            "1721403203136136000",
+            "1721403203135135000",
+            "1721403202780780000",
+            "1721403202764764000",
+            "1721403202714714000",
+            "1721403201900900000",
+            "1721403201891891000",
+            "1721403201527527001",
+            "1721403201527527000",
+            "1721403201494494001",
+            "1721403201494494000",
+            "1721403201486486000",
+            "1721403201019019000",
+            "1721403200948948000",
+            "1721403200106106000",
+            "1721403200102102000",
+            "1721402502460460000",
+            "1721402502458458001",
+            "1721402502458458000",
+            "1721402502133133000",
+            "1721402502117117000",
+            "1721402502063063000",
+            "1721402501274274000",
+            "1721402501267267000",
+            "1721402500922922001",
+            "1721402500922922000",
+            "1721402500890890001",
+            "1721402500890890000",
+            "1721402500882882000",
+            "1721402500401401000",
+            "1721402500375375000",
+            "1721402499609609000",
+            "1721402499605605000",
+            "1721402195488488000",
+            "1721402195486486001",
+            "1721402195486486000",
+            "1721402195008008000",
+            "1721402194991991000",
+            "1721402194925925000",
+            "1721402193178178000",
+            "1721402193129129000",
+            "1721402192365365001",
+            "1721402192365365000",
+            "1721402192320320000",
+            "1721402192319319000",
+            "1721402192308308000",
+            "1721402191412412000",
+            "1721402191370370000",
+            "1721402189891891000",
+            "1721402189885885000"
+          ],
+          "entities": {},
+          "state": null
+        },
+        {
+          "name": "id",
+          "type": "string",
+          "typeInfo": {
+            "frame": "string"
+          },
+          "config": {},
+          "values": [
+            "1721406636548548000_a3cfae23",
+            "1721406636541541000_e1e8aff5",
+            "1721402211722722000_237fb26b",
+            "1721402211720720000_7bd52044",
+            "1721403589247247000_e8f62932",
+            "1721403589245245001_a8f53323",
+            "1721403589245245000_87656e1d",
+            "1721403589026026000_b840fb50",
+            "1721403589012012000_168941bc",
+            "1721403588963963000_c8cc334e",
+            "1721403588191191000_81205465",
+            "1721403588184184000_a7ece7b1",
+            "1721403587826826000_72754a73",
+            "1721403587825825000_c894a3fc",
+            "1721403587789789001_64d9a2aa",
+            "1721403587789789000_9704d5f",
+            "1721403587780780000_6d8eede3",
+            "1721403587338338000_bf8c0be8",
+            "1721403587312312000_9bc1749a",
+            "1721403586541541000_cbce078d",
+            "1721403586538538000_b88c1665",
+            "1721403203141141000_98589160",
+            "1721403203136136000_fd748ce",
+            "1721403203135135000_79b4044b",
+            "1721403202780780000_12037cff",
+            "1721403202764764000_1ee5ad00",
+            "1721403202714714000_6372b7e5",
+            "1721403201900900000_aa9f23c0",
+            "1721403201891891000_2ec19343",
+            "1721403201527527001_94bbf58e",
+            "1721403201527527000_a31953ea",
+            "1721403201494494001_a4968232",
+            "1721403201494494000_b66729d7",
+            "1721403201486486000_882abc07",
+            "1721403201019019000_99c9d282",
+            "1721403200948948000_437b18a1",
+            "1721403200106106000_def6d0f7",
+            "1721403200102102000_566d973e",
+            "1721402502460460000_288428c5",
+            "1721402502458458001_58e14916",
+            "1721402502458458000_515ca242",
+            "1721402502133133000_edda85b9",
+            "1721402502117117000_aeda8b23",
+            "1721402502063063000_1704bec5",
+            "1721402501274274000_7c30f692",
+            "1721402501267267000_7f086976",
+            "1721402500922922001_d5a416c7",
+            "1721402500922922000_f6f4fcbd",
+            "1721402500890890001_77c3b8ba",
+            "1721402500890890000_e0dbcaaf",
+            "1721402500882882000_56e43cc3",
+            "1721402500401401000_e3917f16",
+            "1721402500375375000_4f2e4ae6",
+            "1721402499609609000_f37a4a16",
+            "1721402499605605000_9c51531a",
+            "1721402195488488000_bb582baf",
+            "1721402195486486001_a6f45f4a",
+            "1721402195486486000_d297da0e",
+            "1721402195008008000_b84e4378",
+            "1721402194991991000_9df9a807",
+            "1721402194925925000_2d5a6a7e",
+            "1721402193178178000_6a586a0c",
+            "1721402193129129000_cde5f822",
+            "1721402192365365001_7f7a07f3",
+            "1721402192365365000_b576f7ac",
+            "1721402192320320000_85bdd676",
+            "1721402192319319000_38d10f33",
+            "1721402192308308000_cd9a3432",
+            "1721402191412412000_9a4608e3",
+            "1721402191370370000_afcb4442",
+            "1721402189891891000_4d061f25",
+            "1721402189885885000_1d561cf1"
+          ],
+          "entities": {},
+          "state": null
+        },
+        {
+          "name": "TraceID",
+          "type": "string",
+          "config": {
+            "links": [
+              {
+                "title": "",
+                "url": "",
+                "internal": {
+                  "query": {
+                    "query": "${__value.raw}"
+                  },
+                  "datasourceUid": "tempo",
+                  "datasourceName": "Data source not found"
+                }
+              }
+            ]
+          },
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "state": null
+        }
+      ],
+      "length": 72,
+      "meta": {
+        "typeVersion": [
+          0,
+          0
+        ],
+        "custom": {
+          "frameType": "LabeledTimeValues",
+          "lokiQueryStatKey": "Summary: total bytes processed"
+        },
+        "stats": [
+          {
+            "displayName": "Summary: bytes processed per second",
+            "unit": "Bps",
+            "value": 2569374
+          },
+          {
+            "displayName": "Summary: lines processed per second",
+            "value": 5170
+          },
+          {
+            "displayName": "Summary: total bytes processed",
+            "unit": "decbytes",
+            "value": 35781
+          },
+          {
+            "displayName": "Summary: total lines processed",
+            "value": 72
+          },
+          {
+            "displayName": "Summary: exec time",
+            "unit": "s",
+            "value": 0.013926
+          },
+          {
+            "displayName": "Ingester: total reached",
+            "value": 4
+          },
+          {
+            "displayName": "Ingester: total chunks matched",
+            "value": 1
+          },
+          {
+            "displayName": "Ingester: total batches",
+            "value": 6
+          },
+          {
+            "displayName": "Ingester: total lines sent",
+            "value": 72
+          },
+          {
+            "displayName": "Ingester: head chunk bytes",
+            "unit": "decbytes",
+            "value": 0
+          },
+          {
+            "displayName": "Ingester: head chunk lines",
+            "value": 0
+          },
+          {
+            "displayName": "Ingester: decompressed bytes",
+            "unit": "decbytes",
+            "value": 0
+          },
+          {
+            "displayName": "Ingester: decompressed lines",
+            "value": 0
+          },
+          {
+            "displayName": "Ingester: compressed bytes",
+            "unit": "decbytes",
+            "value": 0
+          },
+          {
+            "displayName": "Ingester: total duplicates",
+            "value": 0
+          }
+        ],
+        "executedQueryString": "Expr: {application=\"product-service\"} |= ``",
+        "preferredVisualisationType": "logs",
+        "limit": 1000,
+        "searchWords": []
+      }
+    }
+  ],
+  "annotations": [],
+  "request": {
+    "app": "explore",
+    "timezone": "browser",
+    "startTime": 1721406791098,
+    "interval": "15s",
+    "intervalMs": 15000,
+    "panelId": "undefined",
+    "targets": [
+      {
+        "refId": "A",
+        "expr": "{application=\"product-service\"} |= ``",
+        "queryType": "range",
+        "datasource": {
+          "type": "loki",
+          "uid": "loki"
+        },
+        "editorMode": "builder"
+      }
+    ],
+    "range": {
+      "from": "2024-07-19T10:33:11.097Z",
+      "to": "2024-07-19T16:33:11.097Z",
+      "raw": {
+        "from": "now-6h",
+        "to": "now"
+      }
+    },
+    "requestId": "explore_Htl",
+    "scopedVars": {
+      "__interval": {
+        "text": "15s",
+        "value": "15s"
+      },
+      "__interval_ms": {
+        "text": 15000,
+        "value": 15000
+      }
+    },
+    "maxDataPoints": 1440,
+    "liveStreaming": false,
+    "endTime": 1721406791149
+  },
+  "timings": {
+    "dataProcessingTime": 0
+  },
+  "graphFrames": [],
+  "tableFrames": [],
+  "logsFrames": [
+    null
+  ],
+  "traceFrames": [],
+  "nodeGraphFrames": [],
+  "customFrames": [],
+  "flameGraphFrames": [],
+  "rawPrometheusFrames": [],
+  "graphResult": null,
+  "tableResult": null,
+  "logsResult": {
+    "hasUniqueLabels": true,
+    "meta": [
+      {
+        "label": "Common labels",
+        "value": {
+          "application": "product-service",
+          "host": "Dattas-MacBook-Air.local"
+        },
+        "kind": 2
+      },
+      {
+        "label": "Line limit",
+        "value": "1000 (72 returned)",
+        "kind": 1
+      },
+      {
+        "label": "Total bytes processed",
+        "value": "35.8  kB",
+        "kind": 1
+      }
+    ],
+    "rows": [
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 0,
+        "logLevel": "warning",
+        "timeFromNow": "3 minutes ago",
+        "timeEpochMs": 1721406636548,
+        "timeEpochNs": "1721406636548548000",
+        "timeLocal": "2024-07-19 22:00:36",
+        "timeUtc": "2024-07-19 16:30:36",
+        "uniqueLabels": {
+          "level": "WARN"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T22:00:36.548+05:30  WARN 33105 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused)\n\norg.springframework.web.client.ResourceAccessException: I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused\n\tat org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:915)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:895)\n\tat org.springframework.web.client.RestTemplate.execute(RestTemplate.java:830)\n\tat org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:691)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.ZipkinRestTemplateSender.postSpans(ZipkinRestTemplateSender.java:49)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:68)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:40)\n\tat zipkin2.reporter.BaseHttpSender.send(BaseHttpSender.java:123)\n\tat zipkin2.reporter.internal.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:266)\n\tat zipkin2.reporter.internal.AsyncReporter$Flusher.run(AsyncReporter.java:352)\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\nCaused by: java.net.ConnectException: Connection refused\n\tat java.base/sun.nio.ch.Net.pollConnect(Native Method)\n\tat java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)\n\tat java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)\n\tat java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)\n\tat java.base/java.net.Socket.connect(Socket.java:752)\n\tat java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)\n\tat java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:280)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1310)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1243)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1129)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1058)\n\tat org.springframework.http.client.SimpleClientHttpRequest.executeInternal(SimpleClientHttpRequest.java:79)\n\tat org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)\n\tat org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)\n\t... 9 common frames omitted\n\n",
+        "raw": "2024-07-19T22:00:36.548+05:30  WARN 33105 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused)\n\norg.springframework.web.client.ResourceAccessException: I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused\n\tat org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:915)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:895)\n\tat org.springframework.web.client.RestTemplate.execute(RestTemplate.java:830)\n\tat org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:691)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.ZipkinRestTemplateSender.postSpans(ZipkinRestTemplateSender.java:49)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:68)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:40)\n\tat zipkin2.reporter.BaseHttpSender.send(BaseHttpSender.java:123)\n\tat zipkin2.reporter.internal.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:266)\n\tat zipkin2.reporter.internal.AsyncReporter$Flusher.run(AsyncReporter.java:352)\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\nCaused by: java.net.ConnectException: Connection refused\n\tat java.base/sun.nio.ch.Net.pollConnect(Native Method)\n\tat java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)\n\tat java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)\n\tat java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)\n\tat java.base/java.net.Socket.connect(Socket.java:752)\n\tat java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)\n\tat java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:280)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1310)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1243)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1129)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1058)\n\tat org.springframework.http.client.SimpleClientHttpRequest.executeInternal(SimpleClientHttpRequest.java:79)\n\tat org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)\n\tat org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)\n\t... 9 common frames omitted\n\n",
+        "uid": "A_1721406636548548000_a3cfae23",
+        "datasourceType": "loki",
+        "rowId": "1721406636548548000_a3cfae23"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 1,
+        "logLevel": "warning",
+        "timeFromNow": "3 minutes ago",
+        "timeEpochMs": 1721406636541,
+        "timeEpochNs": "1721406636541541000",
+        "timeLocal": "2024-07-19 22:00:36",
+        "timeUtc": "2024-07-19 16:30:36",
+        "uniqueLabels": {
+          "level": "WARN"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T22:00:36.541+05:30  WARN 33105 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.\n",
+        "raw": "2024-07-19T22:00:36.541+05:30  WARN 33105 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.\n",
+        "uid": "A_1721406636541541000_e1e8aff5",
+        "datasourceType": "loki",
+        "rowId": "1721406636541541000_e1e8aff5"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 4,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403589247,
+        "timeEpochNs": "1721403589247247000",
+        "timeLocal": "2024-07-19 21:09:49",
+        "timeUtc": "2024-07-19 15:39:49",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:49.247+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms\n",
+        "raw": "2024-07-19T21:09:49.247+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms\n",
+        "uid": "A_1721403589247247000_e8f62932",
+        "datasourceType": "loki",
+        "rowId": "1721403589247247000_e8f62932"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 5,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403589245,
+        "timeEpochNs": "1721403589245245001",
+        "timeLocal": "2024-07-19 21:09:49",
+        "timeUtc": "2024-07-19 15:39:49",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:49.245+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T21:09:49.245+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "uid": "A_1721403589245245001_a8f53323",
+        "datasourceType": "loki",
+        "rowId": "1721403589245245001_a8f53323"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 6,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403589245,
+        "timeEpochNs": "1721403589245245000",
+        "timeLocal": "2024-07-19 21:09:49",
+        "timeUtc": "2024-07-19 15:39:49",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:49.245+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T21:09:49.245+05:30  INFO 33105 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "uid": "A_1721403589245245000_87656e1d",
+        "datasourceType": "loki",
+        "rowId": "1721403589245245000_87656e1d"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 7,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403589026,
+        "timeEpochNs": "1721403589026026000",
+        "timeLocal": "2024-07-19 21:09:49",
+        "timeUtc": "2024-07-19 15:39:49",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:49.026+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.032 seconds (process running for 3.625)\n",
+        "raw": "2024-07-19T21:09:49.026+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.032 seconds (process running for 3.625)\n",
+        "uid": "A_1721403589026026000_b840fb50",
+        "datasourceType": "loki",
+        "rowId": "1721403589026026000_b840fb50"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 8,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403589012,
+        "timeEpochNs": "1721403589012012000",
+        "timeLocal": "2024-07-19 21:09:49",
+        "timeUtc": "2024-07-19 15:39:49",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:49.012+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "raw": "2024-07-19T21:09:49.012+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "uid": "A_1721403589012012000_168941bc",
+        "datasourceType": "loki",
+        "rowId": "1721403589012012000_168941bc"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 9,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403588963,
+        "timeEpochNs": "1721403588963963000",
+        "timeLocal": "2024-07-19 21:09:48",
+        "timeUtc": "2024-07-19 15:39:48",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:48.963+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "raw": "2024-07-19T21:09:48.963+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "uid": "A_1721403588963963000_c8cc334e",
+        "datasourceType": "loki",
+        "rowId": "1721403588963963000_c8cc334e"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 10,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403588191,
+        "timeEpochNs": "1721403588191191000",
+        "timeLocal": "2024-07-19 21:09:48",
+        "timeUtc": "2024-07-19 15:39:48",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:48.191+05:30  INFO 33105 --- [product-service] [cluster-ClusterId{value='669a88c44477986385de74fd', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11279375}\n",
+        "raw": "2024-07-19T21:09:48.191+05:30  INFO 33105 --- [product-service] [cluster-ClusterId{value='669a88c44477986385de74fd', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11279375}\n",
+        "uid": "A_1721403588191191000_81205465",
+        "datasourceType": "loki",
+        "rowId": "1721403588191191000_81205465"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 11,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403588184,
+        "timeEpochNs": "1721403588184184000",
+        "timeLocal": "2024-07-19 21:09:48",
+        "timeUtc": "2024-07-19 15:39:48",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:48.184+05:30  INFO 33105 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@4b56b517], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@1124dd79, com.mongodb.Jep395RecordCodecProvider@335cdd2, com.mongodb.KotlinCodecProvider@1ea96ff2]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@60a99f3d], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "raw": "2024-07-19T21:09:48.184+05:30  INFO 33105 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@4b56b517], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@1124dd79, com.mongodb.Jep395RecordCodecProvider@335cdd2, com.mongodb.KotlinCodecProvider@1ea96ff2]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@60a99f3d], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "uid": "A_1721403588184184000_a7ece7b1",
+        "datasourceType": "loki",
+        "rowId": "1721403588184184000_a7ece7b1"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 12,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403587826,
+        "timeEpochNs": "1721403587826826000",
+        "timeLocal": "2024-07-19 21:09:47",
+        "timeUtc": "2024-07-19 15:39:47",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:47.826+05:30  INFO 33105 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1134 ms\n",
+        "raw": "2024-07-19T21:09:47.826+05:30  INFO 33105 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1134 ms\n",
+        "uid": "A_1721403587826826000_72754a73",
+        "datasourceType": "loki",
+        "rowId": "1721403587826826000_72754a73"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 13,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403587825,
+        "timeEpochNs": "1721403587825825000",
+        "timeLocal": "2024-07-19 21:09:47",
+        "timeUtc": "2024-07-19 15:39:47",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:47.825+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "raw": "2024-07-19T21:09:47.825+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "uid": "A_1721403587825825000_c894a3fc",
+        "datasourceType": "loki",
+        "rowId": "1721403587825825000_c894a3fc"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 14,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403587789,
+        "timeEpochNs": "1721403587789789001",
+        "timeLocal": "2024-07-19 21:09:47",
+        "timeUtc": "2024-07-19 15:39:47",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:47.789+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "raw": "2024-07-19T21:09:47.789+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "uid": "A_1721403587789789001_64d9a2aa",
+        "datasourceType": "loki",
+        "rowId": "1721403587789789001_64d9a2aa"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 15,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403587789,
+        "timeEpochNs": "1721403587789789000",
+        "timeLocal": "2024-07-19 21:09:47",
+        "timeUtc": "2024-07-19 15:39:47",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:47.789+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "raw": "2024-07-19T21:09:47.789+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "uid": "A_1721403587789789000_9704d5f",
+        "datasourceType": "loki",
+        "rowId": "1721403587789789000_9704d5f"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 16,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403587780,
+        "timeEpochNs": "1721403587780780000",
+        "timeLocal": "2024-07-19 21:09:47",
+        "timeUtc": "2024-07-19 15:39:47",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:47.780+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "raw": "2024-07-19T21:09:47.780+05:30  INFO 33105 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "uid": "A_1721403587780780000_6d8eede3",
+        "datasourceType": "loki",
+        "rowId": "1721403587780780000_6d8eede3"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 17,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403587338,
+        "timeEpochNs": "1721403587338338000",
+        "timeLocal": "2024-07-19 21:09:47",
+        "timeUtc": "2024-07-19 15:39:47",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:47.338+05:30  INFO 33105 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 MongoDB repository interface.\n",
+        "raw": "2024-07-19T21:09:47.338+05:30  INFO 33105 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 MongoDB repository interface.\n",
+        "uid": "A_1721403587338338000_bf8c0be8",
+        "datasourceType": "loki",
+        "rowId": "1721403587338338000_bf8c0be8"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 18,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403587312,
+        "timeEpochNs": "1721403587312312000",
+        "timeLocal": "2024-07-19 21:09:47",
+        "timeUtc": "2024-07-19 15:39:47",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:47.312+05:30  INFO 33105 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "raw": "2024-07-19T21:09:47.312+05:30  INFO 33105 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "uid": "A_1721403587312312000_9bc1749a",
+        "datasourceType": "loki",
+        "rowId": "1721403587312312000_9bc1749a"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 19,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403586541,
+        "timeEpochNs": "1721403586541541000",
+        "timeLocal": "2024-07-19 21:09:46",
+        "timeUtc": "2024-07-19 15:39:46",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:46.541+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "raw": "2024-07-19T21:09:46.541+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "uid": "A_1721403586541541000_cbce078d",
+        "datasourceType": "loki",
+        "rowId": "1721403586541541000_cbce078d"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 20,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403586538,
+        "timeEpochNs": "1721403586538538000",
+        "timeLocal": "2024-07-19 21:09:46",
+        "timeUtc": "2024-07-19 15:39:46",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:09:46.538+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 33105 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "raw": "2024-07-19T21:09:46.538+05:30  INFO 33105 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 33105 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "uid": "A_1721403586538538000_b88c1665",
+        "datasourceType": "loki",
+        "rowId": "1721403586538538000_b88c1665"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 21,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403203141,
+        "timeEpochNs": "1721403203141141000",
+        "timeLocal": "2024-07-19 21:03:23",
+        "timeUtc": "2024-07-19 15:33:23",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:23.141+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms\n",
+        "raw": "2024-07-19T21:03:23.141+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms\n",
+        "uid": "A_1721403203141141000_98589160",
+        "datasourceType": "loki",
+        "rowId": "1721403203141141000_98589160"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 22,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403203136,
+        "timeEpochNs": "1721403203136136000",
+        "timeLocal": "2024-07-19 21:03:23",
+        "timeUtc": "2024-07-19 15:33:23",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:23.136+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T21:03:23.136+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "uid": "A_1721403203136136000_fd748ce",
+        "datasourceType": "loki",
+        "rowId": "1721403203136136000_fd748ce"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 23,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403203135,
+        "timeEpochNs": "1721403203135135000",
+        "timeLocal": "2024-07-19 21:03:23",
+        "timeUtc": "2024-07-19 15:33:23",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:23.135+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T21:03:23.135+05:30  INFO 32484 --- [product-service] [RMI TCP Connection(2)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "uid": "A_1721403203135135000_79b4044b",
+        "datasourceType": "loki",
+        "rowId": "1721403203135135000_79b4044b"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 24,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403202780,
+        "timeEpochNs": "1721403202780780000",
+        "timeLocal": "2024-07-19 21:03:22",
+        "timeUtc": "2024-07-19 15:33:22",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:22.780+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.329 seconds (process running for 4.023)\n",
+        "raw": "2024-07-19T21:03:22.780+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.329 seconds (process running for 4.023)\n",
+        "uid": "A_1721403202780780000_12037cff",
+        "datasourceType": "loki",
+        "rowId": "1721403202780780000_12037cff"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 25,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403202764,
+        "timeEpochNs": "1721403202764764000",
+        "timeLocal": "2024-07-19 21:03:22",
+        "timeUtc": "2024-07-19 15:33:22",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:22.764+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "raw": "2024-07-19T21:03:22.764+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "uid": "A_1721403202764764000_1ee5ad00",
+        "datasourceType": "loki",
+        "rowId": "1721403202764764000_1ee5ad00"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 26,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403202714,
+        "timeEpochNs": "1721403202714714000",
+        "timeLocal": "2024-07-19 21:03:22",
+        "timeUtc": "2024-07-19 15:33:22",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:22.714+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "raw": "2024-07-19T21:03:22.714+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "uid": "A_1721403202714714000_6372b7e5",
+        "datasourceType": "loki",
+        "rowId": "1721403202714714000_6372b7e5"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 27,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201900,
+        "timeEpochNs": "1721403201900900000",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.900+05:30  INFO 32484 --- [product-service] [cluster-ClusterId{value='669a874105257c3f9843f581', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=13079292}\n",
+        "raw": "2024-07-19T21:03:21.900+05:30  INFO 32484 --- [product-service] [cluster-ClusterId{value='669a874105257c3f9843f581', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=13079292}\n",
+        "uid": "A_1721403201900900000_aa9f23c0",
+        "datasourceType": "loki",
+        "rowId": "1721403201900900000_aa9f23c0"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 28,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201891,
+        "timeEpochNs": "1721403201891891000",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.891+05:30  INFO 32484 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@432f4626], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@297c3a43, com.mongodb.Jep395RecordCodecProvider@4c79ca55, com.mongodb.KotlinCodecProvider@3a63d248]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@3c4ad54], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "raw": "2024-07-19T21:03:21.891+05:30  INFO 32484 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@432f4626], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@297c3a43, com.mongodb.Jep395RecordCodecProvider@4c79ca55, com.mongodb.KotlinCodecProvider@3a63d248]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@3c4ad54], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "uid": "A_1721403201891891000_2ec19343",
+        "datasourceType": "loki",
+        "rowId": "1721403201891891000_2ec19343"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 29,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201527,
+        "timeEpochNs": "1721403201527527001",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.527+05:30  INFO 32484 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1255 ms\n",
+        "raw": "2024-07-19T21:03:21.527+05:30  INFO 32484 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1255 ms\n",
+        "uid": "A_1721403201527527001_94bbf58e",
+        "datasourceType": "loki",
+        "rowId": "1721403201527527001_94bbf58e"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 30,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201527,
+        "timeEpochNs": "1721403201527527000",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.527+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "raw": "2024-07-19T21:03:21.527+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "uid": "A_1721403201527527000_a31953ea",
+        "datasourceType": "loki",
+        "rowId": "1721403201527527000_a31953ea"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 31,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201494,
+        "timeEpochNs": "1721403201494494001",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.494+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "raw": "2024-07-19T21:03:21.494+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "uid": "A_1721403201494494001_a4968232",
+        "datasourceType": "loki",
+        "rowId": "1721403201494494001_a4968232"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 32,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201494,
+        "timeEpochNs": "1721403201494494000",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.494+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "raw": "2024-07-19T21:03:21.494+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "uid": "A_1721403201494494000_b66729d7",
+        "datasourceType": "loki",
+        "rowId": "1721403201494494000_b66729d7"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 33,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201486,
+        "timeEpochNs": "1721403201486486000",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.486+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "raw": "2024-07-19T21:03:21.486+05:30  INFO 32484 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "uid": "A_1721403201486486000_882abc07",
+        "datasourceType": "loki",
+        "rowId": "1721403201486486000_882abc07"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 34,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403201019,
+        "timeEpochNs": "1721403201019019000",
+        "timeLocal": "2024-07-19 21:03:21",
+        "timeUtc": "2024-07-19 15:33:21",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:21.019+05:30  INFO 32484 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 66 ms. Found 1 MongoDB repository interface.\n",
+        "raw": "2024-07-19T21:03:21.019+05:30  INFO 32484 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 66 ms. Found 1 MongoDB repository interface.\n",
+        "uid": "A_1721403201019019000_99c9d282",
+        "datasourceType": "loki",
+        "rowId": "1721403201019019000_99c9d282"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 35,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403200948,
+        "timeEpochNs": "1721403200948948000",
+        "timeLocal": "2024-07-19 21:03:20",
+        "timeUtc": "2024-07-19 15:33:20",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:20.948+05:30  INFO 32484 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "raw": "2024-07-19T21:03:20.948+05:30  INFO 32484 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "uid": "A_1721403200948948000_437b18a1",
+        "datasourceType": "loki",
+        "rowId": "1721403200948948000_437b18a1"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 36,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403200106,
+        "timeEpochNs": "1721403200106106000",
+        "timeLocal": "2024-07-19 21:03:20",
+        "timeUtc": "2024-07-19 15:33:20",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:20.106+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "raw": "2024-07-19T21:03:20.106+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "uid": "A_1721403200106106000_def6d0f7",
+        "datasourceType": "loki",
+        "rowId": "1721403200106106000_def6d0f7"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 37,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721403200102,
+        "timeEpochNs": "1721403200102102000",
+        "timeLocal": "2024-07-19 21:03:20",
+        "timeUtc": "2024-07-19 15:33:20",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T21:03:20.102+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 32484 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "raw": "2024-07-19T21:03:20.102+05:30  INFO 32484 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 32484 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "uid": "A_1721403200102102000_566d973e",
+        "datasourceType": "loki",
+        "rowId": "1721403200102102000_566d973e"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 38,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402502460,
+        "timeEpochNs": "1721402502460460000",
+        "timeLocal": "2024-07-19 20:51:42",
+        "timeUtc": "2024-07-19 15:21:42",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:42.460+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms\n",
+        "raw": "2024-07-19T20:51:42.460+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms\n",
+        "uid": "A_1721402502460460000_288428c5",
+        "datasourceType": "loki",
+        "rowId": "1721402502460460000_288428c5"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 39,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402502458,
+        "timeEpochNs": "1721402502458458001",
+        "timeLocal": "2024-07-19 20:51:42",
+        "timeUtc": "2024-07-19 15:21:42",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:42.458+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T20:51:42.458+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "uid": "A_1721402502458458001_58e14916",
+        "datasourceType": "loki",
+        "rowId": "1721402502458458001_58e14916"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 40,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402502458,
+        "timeEpochNs": "1721402502458458000",
+        "timeLocal": "2024-07-19 20:51:42",
+        "timeUtc": "2024-07-19 15:21:42",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:42.458+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T20:51:42.458+05:30  INFO 31408 --- [product-service] [RMI TCP Connection(3)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "uid": "A_1721402502458458000_515ca242",
+        "datasourceType": "loki",
+        "rowId": "1721402502458458000_515ca242"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 41,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402502133,
+        "timeEpochNs": "1721402502133133000",
+        "timeLocal": "2024-07-19 20:51:42",
+        "timeUtc": "2024-07-19 15:21:42",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:42.133+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.215 seconds (process running for 4.064)\n",
+        "raw": "2024-07-19T20:51:42.133+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 3.215 seconds (process running for 4.064)\n",
+        "uid": "A_1721402502133133000_edda85b9",
+        "datasourceType": "loki",
+        "rowId": "1721402502133133000_edda85b9"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 42,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402502117,
+        "timeEpochNs": "1721402502117117000",
+        "timeLocal": "2024-07-19 20:51:42",
+        "timeUtc": "2024-07-19 15:21:42",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:42.117+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "raw": "2024-07-19T20:51:42.117+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "uid": "A_1721402502117117000_aeda8b23",
+        "datasourceType": "loki",
+        "rowId": "1721402502117117000_aeda8b23"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 43,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402502063,
+        "timeEpochNs": "1721402502063063000",
+        "timeLocal": "2024-07-19 20:51:42",
+        "timeUtc": "2024-07-19 15:21:42",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:42.063+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "raw": "2024-07-19T20:51:42.063+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "uid": "A_1721402502063063000_1704bec5",
+        "datasourceType": "loki",
+        "rowId": "1721402502063063000_1704bec5"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 44,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402501274,
+        "timeEpochNs": "1721402501274274000",
+        "timeLocal": "2024-07-19 20:51:41",
+        "timeUtc": "2024-07-19 15:21:41",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:41.274+05:30  INFO 31408 --- [product-service] [cluster-ClusterId{value='669a8485f758d4551979234b', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11269583}\n",
+        "raw": "2024-07-19T20:51:41.274+05:30  INFO 31408 --- [product-service] [cluster-ClusterId{value='669a8485f758d4551979234b', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11269583}\n",
+        "uid": "A_1721402501274274000_7c30f692",
+        "datasourceType": "loki",
+        "rowId": "1721402501274274000_7c30f692"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 45,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402501267,
+        "timeEpochNs": "1721402501267267000",
+        "timeLocal": "2024-07-19 20:51:41",
+        "timeUtc": "2024-07-19 15:21:41",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:41.267+05:30  INFO 31408 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@77d959f1], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@11c999da, com.mongodb.Jep395RecordCodecProvider@54f69311, com.mongodb.KotlinCodecProvider@4ab86b2a]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@7793b55d], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "raw": "2024-07-19T20:51:41.267+05:30  INFO 31408 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@77d959f1], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@11c999da, com.mongodb.Jep395RecordCodecProvider@54f69311, com.mongodb.KotlinCodecProvider@4ab86b2a]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@7793b55d], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "uid": "A_1721402501267267000_7f086976",
+        "datasourceType": "loki",
+        "rowId": "1721402501267267000_7f086976"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 46,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402500922,
+        "timeEpochNs": "1721402500922922001",
+        "timeLocal": "2024-07-19 20:51:40",
+        "timeUtc": "2024-07-19 15:21:40",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:40.922+05:30  INFO 31408 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1170 ms\n",
+        "raw": "2024-07-19T20:51:40.922+05:30  INFO 31408 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1170 ms\n",
+        "uid": "A_1721402500922922001_d5a416c7",
+        "datasourceType": "loki",
+        "rowId": "1721402500922922001_d5a416c7"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 47,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402500922,
+        "timeEpochNs": "1721402500922922000",
+        "timeLocal": "2024-07-19 20:51:40",
+        "timeUtc": "2024-07-19 15:21:40",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:40.922+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "raw": "2024-07-19T20:51:40.922+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "uid": "A_1721402500922922000_f6f4fcbd",
+        "datasourceType": "loki",
+        "rowId": "1721402500922922000_f6f4fcbd"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 48,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402500890,
+        "timeEpochNs": "1721402500890890001",
+        "timeLocal": "2024-07-19 20:51:40",
+        "timeUtc": "2024-07-19 15:21:40",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:40.890+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "raw": "2024-07-19T20:51:40.890+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "uid": "A_1721402500890890001_77c3b8ba",
+        "datasourceType": "loki",
+        "rowId": "1721402500890890001_77c3b8ba"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 49,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402500890,
+        "timeEpochNs": "1721402500890890000",
+        "timeLocal": "2024-07-19 20:51:40",
+        "timeUtc": "2024-07-19 15:21:40",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:40.890+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "raw": "2024-07-19T20:51:40.890+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "uid": "A_1721402500890890000_e0dbcaaf",
+        "datasourceType": "loki",
+        "rowId": "1721402500890890000_e0dbcaaf"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 50,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402500882,
+        "timeEpochNs": "1721402500882882000",
+        "timeLocal": "2024-07-19 20:51:40",
+        "timeUtc": "2024-07-19 15:21:40",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:40.882+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "raw": "2024-07-19T20:51:40.882+05:30  INFO 31408 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "uid": "A_1721402500882882000_56e43cc3",
+        "datasourceType": "loki",
+        "rowId": "1721402500882882000_56e43cc3"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 51,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402500401,
+        "timeEpochNs": "1721402500401401000",
+        "timeLocal": "2024-07-19 20:51:40",
+        "timeUtc": "2024-07-19 15:21:40",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:40.401+05:30  INFO 31408 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 MongoDB repository interface.\n",
+        "raw": "2024-07-19T20:51:40.401+05:30  INFO 31408 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 MongoDB repository interface.\n",
+        "uid": "A_1721402500401401000_e3917f16",
+        "datasourceType": "loki",
+        "rowId": "1721402500401401000_e3917f16"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 52,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402500375,
+        "timeEpochNs": "1721402500375375000",
+        "timeLocal": "2024-07-19 20:51:40",
+        "timeUtc": "2024-07-19 15:21:40",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:40.375+05:30  INFO 31408 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "raw": "2024-07-19T20:51:40.375+05:30  INFO 31408 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "uid": "A_1721402500375375000_4f2e4ae6",
+        "datasourceType": "loki",
+        "rowId": "1721402500375375000_4f2e4ae6"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 53,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402499609,
+        "timeEpochNs": "1721402499609609000",
+        "timeLocal": "2024-07-19 20:51:39",
+        "timeUtc": "2024-07-19 15:21:39",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:39.609+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "raw": "2024-07-19T20:51:39.609+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "uid": "A_1721402499609609000_f37a4a16",
+        "datasourceType": "loki",
+        "rowId": "1721402499609609000_f37a4a16"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 54,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402499605,
+        "timeEpochNs": "1721402499605605000",
+        "timeLocal": "2024-07-19 20:51:39",
+        "timeUtc": "2024-07-19 15:21:39",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:51:39.605+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 31408 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "raw": "2024-07-19T20:51:39.605+05:30  INFO 31408 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 31408 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "uid": "A_1721402499605605000_9c51531a",
+        "datasourceType": "loki",
+        "rowId": "1721402499605605000_9c51531a"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 2,
+        "logLevel": "warning",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402211722,
+        "timeEpochNs": "1721402211722722000",
+        "timeLocal": "2024-07-19 20:46:51",
+        "timeUtc": "2024-07-19 15:16:51",
+        "uniqueLabels": {
+          "level": "WARN"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:51.722+05:30  WARN 30921 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused)\n\norg.springframework.web.client.ResourceAccessException: I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused\n\tat org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:915)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:895)\n\tat org.springframework.web.client.RestTemplate.execute(RestTemplate.java:830)\n\tat org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:691)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.ZipkinRestTemplateSender.postSpans(ZipkinRestTemplateSender.java:49)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:68)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:40)\n\tat zipkin2.reporter.BaseHttpSender.send(BaseHttpSender.java:123)\n\tat zipkin2.reporter.internal.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:266)\n\tat zipkin2.reporter.internal.AsyncReporter$Flusher.run(AsyncReporter.java:352)\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\nCaused by: java.net.ConnectException: Connection refused\n\tat java.base/sun.nio.ch.Net.pollConnect(Native Method)\n\tat java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)\n\tat java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)\n\tat java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)\n\tat java.base/java.net.Socket.connect(Socket.java:752)\n\tat java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)\n\tat java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:280)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1310)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1243)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1129)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1058)\n\tat org.springframework.http.client.SimpleClientHttpRequest.executeInternal(SimpleClientHttpRequest.java:79)\n\tat org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)\n\tat org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)\n\t... 9 common frames omitted\n\n",
+        "raw": "2024-07-19T20:46:51.722+05:30  WARN 30921 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused)\n\norg.springframework.web.client.ResourceAccessException: I/O error on POST request for \"http://localhost:9411/api/v2/spans\": Connection refused\n\tat org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:915)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:895)\n\tat org.springframework.web.client.RestTemplate.execute(RestTemplate.java:830)\n\tat org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:691)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.ZipkinRestTemplateSender.postSpans(ZipkinRestTemplateSender.java:49)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:68)\n\tat org.springframework.boot.actuate.autoconfigure.tracing.zipkin.HttpSender.postSpans(HttpSender.java:40)\n\tat zipkin2.reporter.BaseHttpSender.send(BaseHttpSender.java:123)\n\tat zipkin2.reporter.internal.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:266)\n\tat zipkin2.reporter.internal.AsyncReporter$Flusher.run(AsyncReporter.java:352)\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\nCaused by: java.net.ConnectException: Connection refused\n\tat java.base/sun.nio.ch.Net.pollConnect(Native Method)\n\tat java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)\n\tat java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)\n\tat java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)\n\tat java.base/java.net.Socket.connect(Socket.java:752)\n\tat java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)\n\tat java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)\n\tat java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:280)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)\n\tat java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1310)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1243)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1129)\n\tat java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1058)\n\tat org.springframework.http.client.SimpleClientHttpRequest.executeInternal(SimpleClientHttpRequest.java:79)\n\tat org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)\n\tat org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)\n\tat org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)\n\t... 9 common frames omitted\n\n",
+        "uid": "A_1721402211722722000_237fb26b",
+        "datasourceType": "loki",
+        "rowId": "1721402211722722000_237fb26b"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 3,
+        "logLevel": "warning",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402211720,
+        "timeEpochNs": "1721402211720720000",
+        "timeLocal": "2024-07-19 20:46:51",
+        "timeUtc": "2024-07-19 15:16:51",
+        "uniqueLabels": {
+          "level": "WARN"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:51.720+05:30  WARN 30921 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.\n",
+        "raw": "2024-07-19T20:46:51.720+05:30  WARN 30921 --- [product-service] [AsyncReporter{ZipkinRestTemplateSender{http://localhost:9411/api/v2/spans}}] [                                                 ] z.r.i.AsyncReporter$BoundedAsyncReporter : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.\n",
+        "uid": "A_1721402211720720000_7bd52044",
+        "datasourceType": "loki",
+        "rowId": "1721402211720720000_7bd52044"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 55,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402195488,
+        "timeEpochNs": "1721402195488488000",
+        "timeLocal": "2024-07-19 20:46:35",
+        "timeUtc": "2024-07-19 15:16:35",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:35.488+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms\n",
+        "raw": "2024-07-19T20:46:35.488+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms\n",
+        "uid": "A_1721402195488488000_bb582baf",
+        "datasourceType": "loki",
+        "rowId": "1721402195488488000_bb582baf"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 56,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402195486,
+        "timeEpochNs": "1721402195486486001",
+        "timeLocal": "2024-07-19 20:46:35",
+        "timeUtc": "2024-07-19 15:16:35",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:35.486+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T20:46:35.486+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'\n",
+        "uid": "A_1721402195486486001_a6f45f4a",
+        "datasourceType": "loki",
+        "rowId": "1721402195486486001_a6f45f4a"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 57,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402195486,
+        "timeEpochNs": "1721402195486486000",
+        "timeLocal": "2024-07-19 20:46:35",
+        "timeUtc": "2024-07-19 15:16:35",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:35.486+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "raw": "2024-07-19T20:46:35.486+05:30  INFO 30921 --- [product-service] [RMI TCP Connection(5)-127.0.0.1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'\n",
+        "uid": "A_1721402195486486000_d297da0e",
+        "datasourceType": "loki",
+        "rowId": "1721402195486486000_d297da0e"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 58,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402195008,
+        "timeEpochNs": "1721402195008008000",
+        "timeLocal": "2024-07-19 20:46:35",
+        "timeUtc": "2024-07-19 15:16:35",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:35.008+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 5.846 seconds (process running for 7.222)\n",
+        "raw": "2024-07-19T20:46:35.008+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Started ProductServiceApplication in 5.846 seconds (process running for 7.222)\n",
+        "uid": "A_1721402195008008000_b84e4378",
+        "datasourceType": "loki",
+        "rowId": "1721402195008008000_b84e4378"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 59,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402194991,
+        "timeEpochNs": "1721402194991991000",
+        "timeLocal": "2024-07-19 20:46:34",
+        "timeUtc": "2024-07-19 15:16:34",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:34.991+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "raw": "2024-07-19T20:46:34.991+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 3000 (http) with context path '/'\n",
+        "uid": "A_1721402194991991000_9df9a807",
+        "datasourceType": "loki",
+        "rowId": "1721402194991991000_9df9a807"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 60,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402194925,
+        "timeEpochNs": "1721402194925925000",
+        "timeLocal": "2024-07-19 20:46:34",
+        "timeUtc": "2024-07-19 15:16:34",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:34.925+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "raw": "2024-07-19T20:46:34.925+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoints beneath base path '/actuator'\n",
+        "uid": "A_1721402194925925000_2d5a6a7e",
+        "datasourceType": "loki",
+        "rowId": "1721402194925925000_2d5a6a7e"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 61,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402193178,
+        "timeEpochNs": "1721402193178178000",
+        "timeLocal": "2024-07-19 20:46:33",
+        "timeUtc": "2024-07-19 15:16:33",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:33.178+05:30  INFO 30921 --- [product-service] [cluster-ClusterId{value='669a8351cce4063514f3b66c', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=57932250}\n",
+        "raw": "2024-07-19T20:46:33.178+05:30  INFO 30921 --- [product-service] [cluster-ClusterId{value='669a8351cce4063514f3b66c', description='null'}-localhost:27017] [                                                 ] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=57932250}\n",
+        "uid": "A_1721402193178178000_6a586a0c",
+        "datasourceType": "loki",
+        "rowId": "1721402193178178000_6a586a0c"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 62,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402193129,
+        "timeEpochNs": "1721402193129129000",
+        "timeLocal": "2024-07-19 20:46:33",
+        "timeUtc": "2024-07-19 15:16:33",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:33.129+05:30  INFO 30921 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@60a99f3d], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@57515944, com.mongodb.Jep395RecordCodecProvider@7a274521, com.mongodb.KotlinCodecProvider@2fa47368]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@35841d6], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "raw": "2024-07-19T20:46:33.129+05:30  INFO 30921 --- [product-service] [main] [                                                 ] org.mongodb.driver.client                : MongoClient with metadata {\"driver\": {\"name\": \"mongo-java-driver|sync|spring-boot\", \"version\": \"5.0.1\"}, \"os\": {\"type\": \"Darwin\", \"name\": \"Mac OS X\", \"architecture\": \"aarch64\", \"version\": \"14.5\"}, \"platform\": \"Java/Oracle Corporation/22.0.1+8-16\"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@60a99f3d], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@57515944, com.mongodb.Jep395RecordCodecProvider@7a274521, com.mongodb.KotlinCodecProvider@2fa47368]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@35841d6], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}\n",
+        "uid": "A_1721402193129129000_cde5f822",
+        "datasourceType": "loki",
+        "rowId": "1721402193129129000_cde5f822"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 63,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402192365,
+        "timeEpochNs": "1721402192365365001",
+        "timeLocal": "2024-07-19 20:46:32",
+        "timeUtc": "2024-07-19 15:16:32",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:32.365+05:30  INFO 30921 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2181 ms\n",
+        "raw": "2024-07-19T20:46:32.365+05:30  INFO 30921 --- [product-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2181 ms\n",
+        "uid": "A_1721402192365365001_7f7a07f3",
+        "datasourceType": "loki",
+        "rowId": "1721402192365365001_7f7a07f3"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 64,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402192365,
+        "timeEpochNs": "1721402192365365000",
+        "timeLocal": "2024-07-19 20:46:32",
+        "timeUtc": "2024-07-19 15:16:32",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:32.365+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "raw": "2024-07-19T20:46:32.365+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\n",
+        "uid": "A_1721402192365365000_b576f7ac",
+        "datasourceType": "loki",
+        "rowId": "1721402192365365000_b576f7ac"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 65,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402192320,
+        "timeEpochNs": "1721402192320320000",
+        "timeLocal": "2024-07-19 20:46:32",
+        "timeUtc": "2024-07-19 15:16:32",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:32.320+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "raw": "2024-07-19T20:46:32.320+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]\n",
+        "uid": "A_1721402192320320000_85bdd676",
+        "datasourceType": "loki",
+        "rowId": "1721402192320320000_85bdd676"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 66,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402192319,
+        "timeEpochNs": "1721402192319319000",
+        "timeLocal": "2024-07-19 20:46:32",
+        "timeUtc": "2024-07-19 15:16:32",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:32.319+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "raw": "2024-07-19T20:46:32.319+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\n",
+        "uid": "A_1721402192319319000_38d10f33",
+        "datasourceType": "loki",
+        "rowId": "1721402192319319000_38d10f33"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 67,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402192308,
+        "timeEpochNs": "1721402192308308000",
+        "timeLocal": "2024-07-19 20:46:32",
+        "timeUtc": "2024-07-19 15:16:32",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:32.308+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "raw": "2024-07-19T20:46:32.308+05:30  INFO 30921 --- [product-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 3000 (http)\n",
+        "uid": "A_1721402192308308000_cd9a3432",
+        "datasourceType": "loki",
+        "rowId": "1721402192308308000_cd9a3432"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 68,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402191412,
+        "timeEpochNs": "1721402191412412000",
+        "timeLocal": "2024-07-19 20:46:31",
+        "timeUtc": "2024-07-19 15:16:31",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:31.412+05:30  INFO 30921 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 1 MongoDB repository interface.\n",
+        "raw": "2024-07-19T20:46:31.412+05:30  INFO 30921 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 1 MongoDB repository interface.\n",
+        "uid": "A_1721402191412412000_9a4608e3",
+        "datasourceType": "loki",
+        "rowId": "1721402191412412000_9a4608e3"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 69,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402191370,
+        "timeEpochNs": "1721402191370370000",
+        "timeLocal": "2024-07-19 20:46:31",
+        "timeUtc": "2024-07-19 15:16:31",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:31.370+05:30  INFO 30921 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "raw": "2024-07-19T20:46:31.370+05:30  INFO 30921 --- [product-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.\n",
+        "uid": "A_1721402191370370000_afcb4442",
+        "datasourceType": "loki",
+        "rowId": "1721402191370370000_afcb4442"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 70,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402189891,
+        "timeEpochNs": "1721402189891891000",
+        "timeLocal": "2024-07-19 20:46:29",
+        "timeUtc": "2024-07-19 15:16:29",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:29.891+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "raw": "2024-07-19T20:46:29.891+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : No active profile set, falling back to 1 default profile: \"default\"\n",
+        "uid": "A_1721402189891891000_4d061f25",
+        "datasourceType": "loki",
+        "rowId": "1721402189891891000_4d061f25"
+      },
+      {
+        "entryFieldIndex": 2,
+        "rowIndex": 71,
+        "logLevel": "info",
+        "timeFromNow": "an hour ago",
+        "timeEpochMs": 1721402189885,
+        "timeEpochNs": "1721402189885885000",
+        "timeLocal": "2024-07-19 20:46:29",
+        "timeUtc": "2024-07-19 15:16:29",
+        "uniqueLabels": {
+          "level": "INFO"
+        },
+        "hasAnsi": false,
+        "hasUnescapedContent": false,
+        "entry": "2024-07-19T20:46:29.885+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 30921 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "raw": "2024-07-19T20:46:29.885+05:30  INFO 30921 --- [product-service] [main] [                                                 ] c.m.p.ProductServiceApplication          : Starting ProductServiceApplication using Java 22.0.1 with PID 30921 (/Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service/target/classes started by dattasandeepchoragudi in /Users/dattasandeepchoragudi/JavaIdeaProjects/Micro-Services/product-service)\n",
+        "uid": "A_1721402189885885000_1d561cf1",
+        "datasourceType": "loki",
+        "rowId": "1721402189885885000_1d561cf1"
+      }
+    ],
+    "visibleRange": {
+      "from": 1721402179632,
+      "to": 1721406791097
+    },
+    "bucketSize": 63906,
+    "series": [
+      {
+        "name": "info",
+        "fields": [
+          {
+            "name": "Time",
+            "type": "time",
+            "config": {},
+            "values": [
+              1721402179632,
+              1721402499162,
+              1721403138222,
+              1721403202128,
+              1721403585564,
+              1721406589146
+            ]
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "config": {
+              "min": 0,
+              "decimals": 0,
+              "color": {
+                "mode": "fixed",
+                "fixedColor": "#7EB26D"
+              },
+              "custom": {
+                "drawStyle": "bars",
+                "barAlignment": 0,
+                "barWidthFactor": 0.9,
+                "barMaxWidth": 5,
+                "lineColor": "#7EB26D",
+                "pointColor": "#7EB26D",
+                "fillColor": "#7EB26D",
+                "lineWidth": 0,
+                "fillOpacity": 100,
+                "stacking": {
+                  "mode": "normal",
+                  "group": "A"
+                }
+              }
+            },
+            "values": [
+              17,
+              17,
+              11,
+              6,
+              17,
+              0
+            ]
+          }
+        ],
+        "length": 6
+      },
+      {
+        "name": "warning",
+        "fields": [
+          {
+            "name": "Time",
+            "type": "time",
+            "config": {},
+            "values": [
+              1721402179632,
+              1721402499162,
+              1721403138222,
+              1721403202128,
+              1721403585564,
+              1721406589146
+            ]
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "config": {
+              "min": 0,
+              "decimals": 0,
+              "color": {
+                "mode": "fixed",
+                "fixedColor": "#EAB839"
+              },
+              "custom": {
+                "drawStyle": "bars",
+                "barAlignment": 0,
+                "barWidthFactor": 0.9,
+                "barMaxWidth": 5,
+                "lineColor": "#EAB839",
+                "pointColor": "#EAB839",
+                "fillColor": "#EAB839",
+                "lineWidth": 0,
+                "fillOpacity": 100,
+                "stacking": {
+                  "mode": "normal",
+                  "group": "A"
+                }
+              }
+            },
+            "values": [
+              2,
+              0,
+              0,
+              0,
+              0,
+              2
+            ]
+          }
+        ],
+        "length": 6
+      }
+    ],
+    "queries": [
+      null
+    ]
+  },
+  "rawPrometheusResult": null
+}
